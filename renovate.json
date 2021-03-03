@@ -9,5 +9,7 @@
       "groupSlug": "all-minor-patch"
     }
   ],
+  "recreateClosed": true,
+  "prHourlyLimit": 0,
   "labels": ["dependencies"]
 }
